@@ -41,3 +41,6 @@ Since the file is too large for GitHub, the full ANSYS Workbench project is avai
 ##  Author
 
 Mehmet Sabri Aksoy
+
+
+Feel free to connect on LinkedIn(https://www.linkedin.com/in/mehmet-sabri-aksoy/) or message me if you want to collaborate or have feedback!
